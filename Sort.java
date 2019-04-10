@@ -21,22 +21,11 @@ public class Sort {
 			System.out.println(a[i]);
 		}
 		
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 		System.out.println("hello java");
-=======		
+		System.out.println("hello sourcetree");
 		System.out.println("******");
->>>>>>> choupdate
-=======
-		
-		
->>>>>>> checkout
 		System.out.println("hello sourcetree");
->>>>>>> checkout
-=======
 		System.out.println("hello sourcetree");
-	
->>>>>>> checkout
 	}
 }
