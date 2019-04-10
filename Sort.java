@@ -21,6 +21,12 @@ public class Sort {
 			System.out.println(a[i]);
 		}
 		
+<<<<<<< HEAD
 		System.out.println("hello java");
+=======
+		
+		System.out.println("******");
+		
+>>>>>>> choupdate
 	}
 }
