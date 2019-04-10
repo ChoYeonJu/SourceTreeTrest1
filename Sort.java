@@ -23,20 +23,20 @@ public class Sort {
 		
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		System.out.println("hello java");
-=======
-		
-		
-		
-		
+=======		
 		System.out.println("******");
-		
 >>>>>>> choupdate
 =======
 		
 		
 >>>>>>> checkout
 		System.out.println("hello sourcetree");
+>>>>>>> checkout
+=======
+		System.out.println("hello sourcetree");
+	
 >>>>>>> checkout
 	}
 }
